@@ -1,0 +1,42 @@
+*Test 1 (20-30 minutes)*
+
+Please complete a general knowledge test:
+1) Go to http://www.upwork.com
+2) Register as freelancer under "I'm looking for online work"
+3) Once registered, click the “Tests” link and complete the following three
+tests
+4) From the dropdown select “Software Testing”, then take the “Software
+Testing Test”
+5) Make sure your test results are public
+
+Deliverable: Your upwork profile URL with public test results
+
+
+*Test 2 (30-60 minutes)*
+
+Your objective is to write a test plan with test cases for a math test
+application to ensure a student reaches and completes a math test without
+any issues. Screen grabs of the math test application can be found here -
+https://goo.gl/yBi6SB
+
+Please include any questions or concerns you would communicate to the UX
+designer or software developer implementing this application.
+
+Deliverable: PDF or word doc with your test plan, test cases and questions
+
+
+*Test 3 (30-60 minutes)*
+
+Write a selenium script testing the registration process for a teacher on
+the mobymax.com homepage.
+
+Deliverable: Github URL with selenium source code
+
+
+*Bonus Points*
+
+Write a selenium script for one or more of the screens in Test 2. Since
+you don't have access to the source code, you can assume an HTML source of
+your choosing.
+
+Deliverable: Github URL with selenium source code
